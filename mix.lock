@@ -1,0 +1,2 @@
+%{"diff": {:hex, :diff, "1.0.0", "efb2a8422428f8581692f8aa969ef8a546c952039e83e0e27d29005a3772012f", [:mix], []},
+  "erlang_rsync": {:git, "https://github.com/jclosure/erlang-rsync.git", "895686c6e4e31b63ad685c138c5f91ea10612558", [branch: "update_to_librsync_v2"]}}
